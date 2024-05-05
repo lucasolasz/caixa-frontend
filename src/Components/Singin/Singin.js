@@ -24,8 +24,8 @@ const Singin = () => {
                   <button class="absolute top-1/2 right-0 mr-3 transform -translate-y-1/2 inline-block hover:scale-110 transition duration-100"/>
                 </div>
               </div>
-              <div class="flex mb-6 items-center">
-                <a class="inline-block ml-1 text-gray-900 select-text hover:underline" href="#">Esqueci minha senha</a>
+              <div class="flex mb-6 text-right">
+                <a class="inline-block ml-auto text-gray-900 select-text hover:underline" href="#">Esqueci minha senha</a>
               </div>
               <button class="relative group block w-full mb-20 py-3 px-5 text-center text-sm font-semibold text-white bg-orange-600 rounded overflow-hidden hover:bg-orange-700" type="submit">
                 <span class="relative">Entrar</span>
