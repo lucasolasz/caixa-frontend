@@ -25,7 +25,7 @@ const Lancamentos = () => {
                             </div>
                             <div class="w-full sm:w-2/3 px-4">
                                 <div class="max-w-xl">
-                                    <input class="block py-4 px-3 w-full text-sm text-gray-500 placeholder-gray-600 font-medium outline-none bg-transparent border border-gray-400 focus-within:border-orange-500 rounded-lg" id="formInput1-3" type="text" placeholder="Adicione uma descrição" />
+                                    <input class="block py-4 px-3 w-full text-sm text-gray-500 placeholder-gray-600 font-medium outline-none bg-transparent border border-gray-400 focus-within:border-orange-600 rounded-lg" id="formInput1-3" type="text" placeholder="Adicione uma descrição" />
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@ const Lancamentos = () => {
                                 <span class="text-sm font-medium">Tipo Lançamento</span>
                             </div>
                             <div class="w-full sm:w-2/3 px-4">
-                                <div class="max-w-xl relative block px-3 w-full font-medium border border-gray-400 focus-within:border-orange-500 rounded-lg">
+                                <div class="max-w-xl relative block px-3 w-full font-medium border border-gray-400 focus-within:border-orange-600 rounded-lg">
                                     <span class="absolute bottom-full left-0 ml-3 -mb-1 transform translate-y-0.5 text-xs font-semibold text-gray-600 px-1 bg-app">Tipo Lançamento</span>
                                     <span class="absolute top-1/2 right-0 mr-5 transform -translate-y-1/2">
                                         <svg width="12" height="8" viewbox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -69,7 +69,7 @@ const Lancamentos = () => {
                                 <span class="text-sm font-medium">Entrada/Saída</span>
                             </div>
                             <div class="w-full sm:w-2/3 px-4">
-                                <div class="max-w-xl relative block px-3 w-full font-medium border border-gray-400 focus-within:border-orange-500 rounded-lg">
+                                <div class="max-w-xl relative block px-3 w-full font-medium border border-gray-400 focus-within:border-orange-600 rounded-lg">
                                     <span class="absolute bottom-full left-0 ml-3 -mb-1 transform translate-y-0.5 text-xs font-semibold text-gray-600 px-1 bg-app">Entrada/Saída</span>
                                     <span class="absolute top-1/2 right-0 mr-5 transform -translate-y-1/2">
                                         <svg width="12" height="8" viewbox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -91,7 +91,7 @@ const Lancamentos = () => {
                             </div>
                             <div class="w-full sm:w-2/3 px-4">
                                 <div class="max-w-sm">
-                                    <input class="block py-4 px-3 w-full text-sm text-gray-500 placeholder-gray-600 font-medium outline-none bg-transparent border border-gray-400 focus-within:border-orange-500 rounded-lg" id="formInput1-3" type="text" placeholder="R$ 0.00" />
+                                    <input class="block py-4 px-3 w-full text-sm text-gray-500 placeholder-gray-600 font-medium outline-none bg-transparent border border-gray-400 focus-within:border-orange-600 rounded-lg" id="formInput1-3" type="text" placeholder="R$ 0.00" />
                                 </div>
                             </div>
                         </div>
